@@ -1,5 +1,5 @@
 # Cattle-feed-and-water-intake-behaviors
-Project with Department of Animal Sciences and Industry, Kansas State University
+Collaborative Project with Department of Animal Sciences and Industry, Kansas State University
 
 
 ### 📌 Project Updates
