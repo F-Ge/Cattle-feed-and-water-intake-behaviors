@@ -4,6 +4,8 @@ Collaborative Project with Department of Animal Sciences and Industry, Kansas St
 
 ### 📌 Project Updates
 
+- **🗓️ 12/04/2025** - Got confirmation that the documents are signed! A big step forward for us. Now we move on to the next challenge: data transfer....
+
 - **🗓️ 11/19/2025** - Hello, winter in Madison! Still waiting for the data and looking ahead to Thanksgiving.
   
 - **🗓️ 10/31/2025** — Happy Halloween! Still waiting on the data and the agreement. Hopefully I’ll be able to start the project by the end of the year
