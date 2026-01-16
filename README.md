@@ -4,6 +4,8 @@ Collaborative Project with Department of Animal Sciences and Industry, Kansas St
 
 ### 📌 Project Updates
 
+- **🗓️ 1/15/2026** - Happy New Year! We’ve scheduled a meeting with Prof. Megan and her group next week. Excited to see how things move forward!
+
 - **🗓️ 12/04/2025** - Got confirmation that the documents are signed! A big step forward for us. Now we move on to the next challenge: data transfer....
 
 - **🗓️ 11/19/2025** - Hello, winter in Madison! Still waiting for the data and looking ahead to Thanksgiving.
